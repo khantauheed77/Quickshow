@@ -6,7 +6,7 @@ import { Heart, PlayCircle, StarIcon } from "lucide-react";
 import timeFormat from "../lib/timeFormat";
 import DateSelect from "../components/DateSelect";
 import MovieCard from "../components/MovieCard";
-import Loading from "../components/LOading";
+import Loading from "../components/Loading";
 import { kConverter } from "../lib/kconverter";
 
 const MovieDetails = () => {
